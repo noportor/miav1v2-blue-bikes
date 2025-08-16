@@ -1,5 +1,3 @@
-# Crear columnas adicionales para analisis
-
 ## Descripción
 **Proyecto Final – Blue Bikes (Data Mining – MIAV1E2)**  
 Repositorio del trabajo final para la asignatura **Data Mining – MIAV1E2**, a cargo del docente *MSc. Renzo Franck Claure Aracena*.
